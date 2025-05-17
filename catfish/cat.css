@@ -4,7 +4,8 @@
     flex-direction: column;
   }
   .card {
-    margin: 1em 0;
+    margin: 2em 0;
+    padding: 0px;
   }
 }
 @media (max-width: 480px) {
